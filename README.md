@@ -44,7 +44,7 @@
 
 ### 🔗 분석 리포트 확인하기
 
-- [**📊 R Markdown 결과 페이지 (HTML)**](https://github.com/mic006016/spatial-bigdata-analysis/)
+- [**📊 R Markdown 결과 페이지 (HTML)**](https://mic006016.github.io/spatial-bigdata-analysis/)
     - *참고: 코드 접기(Code Folding) 기능이 포함되어 있어 분석 과정과 코드를 동시에 확인할 수 있습니다.*
 
 ### 📝 결론 및 시사점
